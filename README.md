@@ -15,13 +15,6 @@ TaskHub has many functionalities including:
 3. :teacher: Add/Remove members
 
 
-To enjoy the application:
-// will add later  <br>
-
-
-To run the application:
-// will add later  <br>
-
 
 ### Information on Development: 
 
